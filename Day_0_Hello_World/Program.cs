@@ -6,7 +6,11 @@ namespace Day_0_Hello_World
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+
+            string inputString = Console.ReadLine();
+
+            Console.WriteLine("Hello, World.");
+            Console.WriteLine(inputString);
         }
     }
 }
