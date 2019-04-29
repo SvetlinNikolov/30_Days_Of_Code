@@ -1,0 +1,11 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\bin\Debug\netcoreapp2.1\Day_7_Arrays.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\bin\Debug\netcoreapp2.1\Day_7_Arrays.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\bin\Debug\netcoreapp2.1\Day_7_Arrays.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\bin\Debug\netcoreapp2.1\Day_7_Arrays.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\bin\Debug\netcoreapp2.1\Day_7_Arrays.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.csprojAssemblyReference.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_7_Arrays\obj\Debug\netcoreapp2.1\Day_7_Arrays.pdb

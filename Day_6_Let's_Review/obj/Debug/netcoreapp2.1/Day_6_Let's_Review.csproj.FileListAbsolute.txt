@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\bin\Debug\netcoreapp2.1\Day_6_Let's_Review.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\bin\Debug\netcoreapp2.1\Day_6_Let's_Review.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\bin\Debug\netcoreapp2.1\Day_6_Let's_Review.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\bin\Debug\netcoreapp2.1\Day_6_Let's_Review.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\bin\Debug\netcoreapp2.1\Day_6_Let's_Review.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\obj\Debug\netcoreapp2.1\Day_6_Let's_Review.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\obj\Debug\netcoreapp2.1\Day_6_Let's_Review.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\obj\Debug\netcoreapp2.1\Day_6_Let's_Review.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\obj\Debug\netcoreapp2.1\Day_6_Let's_Review.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_6_Let's_Review\obj\Debug\netcoreapp2.1\Day_6_Let's_Review.pdb

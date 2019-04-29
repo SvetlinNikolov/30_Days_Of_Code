@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\bin\Debug\netcoreapp2.1\Day_5_Loops.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\bin\Debug\netcoreapp2.1\Day_5_Loops.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\bin\Debug\netcoreapp2.1\Day_5_Loops.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\bin\Debug\netcoreapp2.1\Day_5_Loops.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\bin\Debug\netcoreapp2.1\Day_5_Loops.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\obj\Debug\netcoreapp2.1\Day_5_Loops.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\obj\Debug\netcoreapp2.1\Day_5_Loops.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\obj\Debug\netcoreapp2.1\Day_5_Loops.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\obj\Debug\netcoreapp2.1\Day_5_Loops.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_5_Loops\obj\Debug\netcoreapp2.1\Day_5_Loops.pdb
