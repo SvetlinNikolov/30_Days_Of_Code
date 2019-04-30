@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\bin\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\bin\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\bin\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\bin\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\bin\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\obj\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\obj\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\obj\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\obj\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_8_Dictionaries_and_Maps\obj\Debug\netcoreapp2.1\Day_8_Dictionaries_and_Maps.pdb
