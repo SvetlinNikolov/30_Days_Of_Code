@@ -1,0 +1,10 @@
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\bin\Debug\netcoreapp2.1\Day_9_Recursion.deps.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\bin\Debug\netcoreapp2.1\Day_9_Recursion.runtimeconfig.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\bin\Debug\netcoreapp2.1\Day_9_Recursion.runtimeconfig.dev.json
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\bin\Debug\netcoreapp2.1\Day_9_Recursion.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\bin\Debug\netcoreapp2.1\Day_9_Recursion.pdb
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\obj\Debug\netcoreapp2.1\Day_9_Recursion.csproj.CoreCompileInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\obj\Debug\netcoreapp2.1\Day_9_Recursion.AssemblyInfoInputs.cache
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\obj\Debug\netcoreapp2.1\Day_9_Recursion.AssemblyInfo.cs
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\obj\Debug\netcoreapp2.1\Day_9_Recursion.dll
+C:\Users\daxte\source\repos\30_Days_Of_Code\Day_9_Recursion\obj\Debug\netcoreapp2.1\Day_9_Recursion.pdb
